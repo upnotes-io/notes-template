@@ -1,3 +1,3 @@
 # Notes 
 
-This repos is created by [upnotes](upnotes.io)
+This repos is created by [upnotes](https://upnotes.io)
