@@ -1,1 +1,1 @@
-Start writeing your first blog on upnotes.
+Start writing your first blog on upnotes.
